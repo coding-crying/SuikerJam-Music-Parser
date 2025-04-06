@@ -1,0 +1,26 @@
+{
+  "file": "/home/whywillwizardry/Downloads/high.wav",
+  "duration": null,
+  "analysis_time": 938.5718123912811,
+  "parameters": {
+    "chunk_duration": 300,
+    "overlap": 5,
+    "tempo_threshold": 5.0,
+    "boundary_threshold": 0.15,
+    "silence_threshold": -50,
+    "silence_duration": 2.0,
+    "min_segment": 30,
+    "clapping_duration": 1.0,
+    "clapping_percentile": 20,
+    "clapping_irregularity": 0.6,
+    "speech_duration": 1.0,
+    "proximity_threshold": 30,
+    "identify_song_boundaries": true
+  },
+  "events": [
+    {
+      "time": 0.09287981859410431,
+      "end_time": 14.55891156462585,
+      "type": "speech",
+      "duration": 14.466031746031746,
+      "confidence": 

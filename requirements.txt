@@ -1,0 +1,4 @@
+librosa>=0.9.2
+numpy>=1.20.0
+soundfile>=0.10.3
+matplotlib>=3.5.0  # Optional: for visualization if added later 
